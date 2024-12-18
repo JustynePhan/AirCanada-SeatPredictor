@@ -46,14 +46,6 @@ The model employs machine learning techniques, tuned for high performance:
 - **Evaluation Metric**: F1 Score
 - **Current Accuracy**: ~93% (Targeting improvement)
 
-## Performance
-
-| Metric         | Value    |
-|----------------|----------|
-| F1 Score       | [Value]  |
-| Accuracy       | ~93%     |
-| Precision      | [Value]  |
-| Recall         | [Value]  |
 
 ## Usage
 
