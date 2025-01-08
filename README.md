@@ -42,7 +42,7 @@ The dataset used for this project includes the following features:
 
 The model employs machine learning techniques, tuned for high performance:
 
-- **Algorithm**: [Insert algorithm name, e.g., Random Forest, XGBoost, etc.]
+- **Algorithm**: Random Forest
 - **Evaluation Metric**: F1 Score
 - **Current Accuracy**: ~93% (Targeting improvement)
 
